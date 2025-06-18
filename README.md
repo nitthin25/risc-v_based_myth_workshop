@@ -23,6 +23,24 @@ Layer mapping: Application layer → System software → Hardware layer.
 
 The journey from RISC-V Instruction Set Architecture (ISA) to the physical design of a RISC-V-based CPU core like PicoRV32 involves multiple stages in digital design. It begins with the RISC-V ISA, which defines the set of instructions the CPU can execute. Using this ISA, a hardware description of the CPU—such as PicoRV32—is written in a language like Verilog (RTL design). This RTL code is then passed through a synthesis tool to convert it into a gate-level netlist. Finally, the netlist undergoes physical design implementation using tools like Qflow, where steps such as placement, routing, and layout generation are performed to prepare the design for chip fabrication. This entire process bridges the gap from abstract instruction definitions to a tangible silicon-ready CPU core.
 
+![Image](https://github.com/user-attachments/assets/bff4cc08-954b-49af-a1ad-05d724dacaad)
+
+## DAY-1 LAB
+
+1)compute sum from 1 to n
+
+```c
+  #include <stdio.h>
+    int main() {
+    int i, sum = 0, n = 100;
+    for (i=1; i <= n; ++i) {
+    sum += i; }
+    printf("Sum of numbers from 1 to %d is %d\n", n, sum);
+    return 0;
+  }
+```
+
+
 
 
 
