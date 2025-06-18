@@ -105,6 +105,8 @@ Were the RISC-V is based on “LITTELE-ENDIAN ” memory addressing
 For an array of three double words:
 Bytes 0–7   → First double word Bytes 8–15  → Second double word Bytes 16–23 → Third double word
 
+![Image](https://github.com/user-attachments/assets/190d6c99-c57a-40b2-acd0-7c39aae861d3)
+
 
 
 
