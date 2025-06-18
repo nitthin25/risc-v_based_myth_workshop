@@ -71,6 +71,25 @@ riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o 1ton.o 1ton.c
 spike pk 1ton.o
 ```
 
+## Day 2: Introduction to ABI and Basic Verification Flow
+
+### Introduction to ABI
+
+An Application Binary Interface (ABI) specifies the detailed rules that govern how compiled code and software components, such as libraries, communicate and function together at the binary level. It acts as a blueprint that ensures independently developed modules can integrate and operate smoothly.
+
+This includes aspects such as:
+
+How functions are called and parameters are passed (calling conventions),
+
+Which registers are used and how they’re preserved,
+
+How memory is organized and how data types are represented.
+
+The typical flow from software to hardware follows this path:
+Application Layer → Standard Libraries → Operating System → Instruction Set Architecture (e.g., RISC-V, ARM, x86) → Hardware (RTL design).
+
+
+
 
 
 
