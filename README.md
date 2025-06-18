@@ -64,6 +64,13 @@ change the format to fast
 ![Image](https://github.com/user-attachments/assets/fe175c1e-54e7-4b04-932c-c6a96db2017a)
 
 
+Simulation with spike
+
+```
+riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o 1ton.o 1ton.c        
+spike pk 1ton.o
+```
+
 
 
 
