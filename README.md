@@ -55,6 +55,10 @@ To simulate the program and verify the steps
 
 ![Image](https://github.com/user-attachments/assets/eeb33dc0-c44e-4d31-9da7-ddb821f0e28f)
 
+change the format to fast
+
+![Image](https://github.com/user-attachments/assets/de676d52-4012-4852-b15c-ed857c71f469)
+
 
 
 
