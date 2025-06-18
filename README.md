@@ -12,10 +12,20 @@ RISC-V (pronounced "RISC-five") is an open-source, royalty-free instruction set 
 
 ### RISC-V flow
 
-RISC-V Architecture (C) → Implementation (RTL, e.g., PicoRV32 core) → Layout (qflow for hardware).
+RISC-V Architecture (C) → Implementation → Layout .
 Layer mapping: Application layer → System software → Hardware layer.
 
 ![Image](https://github.com/user-attachments/assets/3b99258b-64b6-480a-93f1-4098a6158f91)
+
+### Apps to Hardware
+
+### RISC-V instruction set architechture → RTL and synthesis of RISC-V based cpu core-picorv32 → physical design impementation of picorv32
+
+The journey from RISC-V Instruction Set Architecture (ISA) to the physical design of a RISC-V-based CPU core like PicoRV32 involves multiple stages in digital design. It begins with the RISC-V ISA, which defines the set of instructions the CPU can execute. Using this ISA, a hardware description of the CPU—such as PicoRV32—is written in a language like Verilog (RTL design). This RTL code is then passed through a synthesis tool to convert it into a gate-level netlist. Finally, the netlist undergoes physical design implementation using tools like Qflow, where steps such as placement, routing, and layout generation are performed to prepare the design for chip fabrication. This entire process bridges the gap from abstract instruction definitions to a tangible silicon-ready CPU core.
+
+
+
+
 
 
 
