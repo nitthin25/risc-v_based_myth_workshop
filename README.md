@@ -49,6 +49,10 @@ Steps to run this
   
 ![Image](https://github.com/user-attachments/assets/8c239925-ead7-4d92-90dc-0fc9079307bf)
 
+To simulate the program and verify the steps
+
+
+
 
 
 
