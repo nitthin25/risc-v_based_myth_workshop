@@ -51,6 +51,7 @@ Steps to run this
 
 To simulate the program and verify the steps
 
+![Image](https://github.com/user-attachments/assets/1e001a39-925a-4594-b7d6-26bbb1498e43)
 
 
 
