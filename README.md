@@ -7,3 +7,16 @@
 ## What is RISC_V
 
 RISC-V (pronounced "RISC-five") is an open-source, royalty-free instruction set architecture (ISA) based on the principles of Reduced Instruction Set Computing (RISC). Designed for flexibility and scalability, it enables developers and organizations to build custom processors for a wide range of applications—from embedded systems to high-performance computing—without licensing restrictions. Its openness and modularity make it a significant force in democratizing hardware design and driving innovation in the semiconductor industry.
+
+## Day-1:Introduction to RISC-V ISA and GNU compiler toolchain
+
+### RISC-V flow
+
+RISC-V Architecture (C) → Implementation (RTL, e.g., PicoRV32 core) → Layout (qflow for hardware).
+Layer mapping: Application layer → System software → Hardware layer.
+
+
+
+
+
+
