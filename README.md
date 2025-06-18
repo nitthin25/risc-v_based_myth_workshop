@@ -40,6 +40,15 @@ The journey from RISC-V Instruction Set Architecture (ISA) to the physical desig
   }
 ```
 
+This is the c code for adding numbers, make a file named 1ton.c and paste this in that file.
+
+Steps to run this
+
+  1)gcc 1ton.c
+  2)./a.out
+  
+![Image](https://github.com/user-attachments/assets/8c239925-ead7-4d92-90dc-0fc9079307bf)
+
 
 
 
