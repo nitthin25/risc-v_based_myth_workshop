@@ -53,6 +53,8 @@ To simulate the program and verify the steps
 
 ![Image](https://github.com/user-attachments/assets/1e001a39-925a-4594-b7d6-26bbb1498e43)
 
+![Image](https://github.com/user-attachments/assets/eeb33dc0-c44e-4d31-9da7-ddb821f0e28f)
+
 
 
 
