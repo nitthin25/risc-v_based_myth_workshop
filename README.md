@@ -15,6 +15,8 @@ RISC-V (pronounced "RISC-five") is an open-source, royalty-free instruction set 
 RISC-V Architecture (C) → Implementation (RTL, e.g., PicoRV32 core) → Layout (qflow for hardware).
 Layer mapping: Application layer → System software → Hardware layer.
 
+![Image](https://github.com/user-attachments/assets/3b99258b-64b6-480a-93f1-4098a6158f91)
+
 
 
 
