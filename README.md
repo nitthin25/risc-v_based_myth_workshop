@@ -88,6 +88,27 @@ How memory is organized and how data types are represented.
 The typical flow from software to hardware follows this path:
 Application Layer → Standard Libraries → Operating System → Instruction Set Architecture (e.g., RISC-V, ARM, x86) → Hardware (RTL design).
 
+![Image](https://github.com/user-attachments/assets/19db819a-67bb-46db-ae18-082abc8bb3e1)
+
+## Memory Allocation for Double Words
+
+There are only 32 registers available in RISC-V architecture
+
+On RV64 (XLEN=64), double words (64-bit values) can be:
+
+1)stored directly in a 64 bit register:
+
+Stored in memory across eight consecutive bytes (m[0] holds LSB, m[7] holds MSB in little-endian order).
+
+Were the RISC-V is based on “LITTELE-ENDIAN ” memory addressing
+
+For an array of three double words:
+Bytes 0–7   → First double word Bytes 8–15  → Second double word Bytes 16–23 → Third double word
+
+
+
+
+
 
 
 
