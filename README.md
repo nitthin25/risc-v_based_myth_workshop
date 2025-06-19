@@ -293,10 +293,15 @@ single-cycle RISC-V CPU → instruction completes in one clock cycle—fetch, de
 
 ### ALU Operations for ADD/ADDI-
 
+![Image](https://github.com/user-attachments/assets/fa4b4448-1f2d-4e1f-83e4-acb964fbedcc)
+
 ### Register File Write
+
+![Image](https://github.com/user-attachments/assets/80f6326d-8ec3-4c55-95a0-5323e1607a9e)
 
 ### Implementing Branch Instructions
 
+![Image](https://github.com/user-attachments/assets/829a54bf-ac5a-4bd6-8c8f-bff1fabef45d)
 
 
 
