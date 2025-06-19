@@ -267,10 +267,13 @@ Validity is the device meets the needs and requirements of its intended users an
 ![Image](https://github.com/user-attachments/assets/cf7415ad-ac0a-4fed-aec1-4c9b61f29db9)
 
 
+## Day 4: Basic RISC-V CPU Micro-architecture
 
+### Micro-architecture of Single-Cycle RISC-V CPU
 
+single-cycle RISC-V CPU → instruction completes in one clock cycle—fetch, decode, execute, memory access, and write-back stages all occur in parallel hardware structures.
 
-
+![Image](https://github.com/user-attachments/assets/1302ede8-b7a2-4413-9927-74a26441b327)
 
 
 
