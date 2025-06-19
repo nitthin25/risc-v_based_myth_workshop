@@ -584,6 +584,12 @@ vizualization-
 
 
 
+## Acknowledgements
+
+I would like to sincerely thank Kunal Ghosh sir for his guidance and for leading us through the first two days of this workshop with clarity and insight. I'm equally grateful to Steve Hoover sir for his engaging sessions during the last three days, which deepened our understanding of processor design. A special thanks also goes to VSD and Redwood EDA for organizing this enriching and well-structured workshop experience.
+
+
+
 
 
 
