@@ -187,6 +187,24 @@ riscv64-unknown-elf-objdump -d 1to9_custom.o | less
 
 ![Image](https://github.com/user-attachments/assets/53a25db5-4386-481f-9729-289ed71514f2)
 
+## Program On RISC-V CPU-
+
+Cloning-
+
+```
+git clone https://github.com/kunalg123/riscv_workshop_collaterals.git
+cd riscv_workshop_collaterals/labs
+```
+
+Inspect and Prepare Files-
+
+```
+ls -ltr
+vim picorv32.v       
+vim testbench.v      
+vim rv32im.sh
+```
+
 
 
 
