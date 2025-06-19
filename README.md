@@ -107,6 +107,14 @@ Bytes 0–7   → First double word Bytes 8–15  → Second double word Bytes 1
 
 ![Image](https://github.com/user-attachments/assets/190d6c99-c57a-40b2-acd0-7c39aae861d3)
 
+## DAY-2 Labs
+
+### C Program with Assembly Function
+
+Flow of a sum of numbers in c program
+
+
+
 
 
 
