@@ -204,6 +204,10 @@ vim picorv32.v
 vim testbench.v      
 vim rv32im.sh
 ```
+![Image](https://github.com/user-attachments/assets/9a38f801-8aa2-4ea2-8928-48eb94484604)
+
+Snippet of rv32im.sh -
+
 
 
 
