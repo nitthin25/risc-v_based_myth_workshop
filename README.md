@@ -277,7 +277,11 @@ single-cycle RISC-V CPU → instruction completes in one clock cycle—fetch, de
 
 ### Implementation Plan and Lab for PC
 
+![Image](https://github.com/user-attachments/assets/f95b1f83-7f24-4d8d-8542-8b01a3d34d7d)
+
 ### Lab for Instruction Fetch Logic
+
+![Image](https://github.com/user-attachments/assets/89fb5ec7-3ebd-4bfa-a803-3247af35d9fc)
 
 
 
