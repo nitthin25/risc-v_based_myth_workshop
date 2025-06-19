@@ -312,6 +312,22 @@ Test each format against known encodings.
 
 ## Day-4 Labs-
 
+### Starting Point Code for RISC-V Labs-
+
+### Reset-
+
+### fetch-
+
+### decode with branches
+
+### Register File Read
+
+### Register File Write
+
+### ALU Operations
+
+### Simple Testbench
+
 
 
 
