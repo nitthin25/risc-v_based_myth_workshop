@@ -252,12 +252,19 @@ Validity is the device meets the needs and requirements of its intended users an
 
 ### Cycle Calculator-
 
+![Image](https://github.com/user-attachments/assets/c1f6aafb-3cd3-4ded-94a6-e8802c6033a6)
 
 ### Total Distance-
 
+![Image](https://github.com/user-attachments/assets/6683e4a0-f1e2-4334-8e65-9aa908b2e554)
+
 ### validity-
 
+![Image](https://github.com/user-attachments/assets/ab0f1f22-b72a-426d-b81c-e607f8b4e524)
+
 ### cycle calculator with vailidity condition-
+
+![Image](https://github.com/user-attachments/assets/cf7415ad-ac0a-4fed-aec1-4c9b61f29db9)
 
 
 
