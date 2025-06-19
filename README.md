@@ -217,6 +217,36 @@ chmod +x rv32im.sh
 ./rv32im.sh
 ```
 
+## Day3: Digital Logic with TL-Verilog and Makerchip
+
+### Logic gates-
+
+A logic gate is a basic component of digital electronics that functions like an electronic switch, taking binary inputs (0 or 1) and producing a binary output according to a particular logic rule. These gates are the physical implementation of Boolean algebra and serve as the foundation for building more advanced digital systems, including computers and various electronic devices. Using basic gates, we can construct more complex ones such as NAND, NOR, XOR, and XNOR.
+
+### Combinational Logic
+
+A combinational logic circuit is a digital system in which the output is solely determined by the present state of the inputs, without any regard for previous input values. It does not store any data or have memory elements. Such circuits are constructed using logic gates like AND, OR, NOT, NAND, NOR, and others.
+
+### Sequential Logic-
+
+A sequential logic circuit is a digital circuit whose output depends not only on the present input but also on the past inputs and the internal state of the circuit. It incorporates memory elements, like flip-flops or latches, to store the previous state, allowing the circuit to "remember" past inputs. This contrasts with combinational logic, where the output is solely determined by the current inputs.
+
+### Storage elements: Flip-Flops
+
+In digital electronics, a flip-flop is a fundamental memory circuit that can store a single bit of information (0 or 1) and can be toggled between these two states. It's like a basic switch that can be flipped on or off, retaining that state until an external signal (like a clock pulse) triggers a change. Flip-flops are bistable devices, meaning they have two stable states. They can hold a specific binary value (0 or 1) until a control signal causes them to change.
+
+### Validity
+
+Validity is the device meets the needs and requirements of its intended users and the intended use environment. In a chip there are maximum things that are not useful and sit idle in the chip, but the power still goes in them, which is a wastage of electricity. Validity fixes this problem by eliminating the non-useful gates.
+
+
+
+
+
+
+
+
+
 
 
 
