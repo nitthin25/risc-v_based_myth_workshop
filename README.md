@@ -361,22 +361,25 @@ Test each format against known encodings.
 
 ### Solutions to Pipeline Hazard
 
+![Image](https://github.com/user-attachments/assets/e25dad6d-fbc9-4d92-81c8-ef6ae58e6039)
 
 ### Branches To Correct The Branch Target Path
 
-
+![Image](https://github.com/user-attachments/assets/1254e107-2563-43bf-917a-5519bf2bd568)
 
 ### Load/Store Instructions and Completing the RISC-V CPU
 
+![Image](https://github.com/user-attachments/assets/0d020219-0a20-4c8a-a762-673c687b4cd5)
 
+![Image](https://github.com/user-attachments/assets/a3bf47d5-5811-423a-b2ff-7d994af87ed5)
 
 ### Load Data from Memory into the Register File
 
-
+![Image](https://github.com/user-attachments/assets/95440f30-3bf2-4272-8b43-ae106f8210b5)
 
 ### Instantiate Data Memory in the CPU
 
-
+![Image](https://github.com/user-attachments/assets/6e8b64b8-6fb0-4c47-a345-a34a32932c67)
 
 
 
