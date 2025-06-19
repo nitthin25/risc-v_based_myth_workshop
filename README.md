@@ -277,13 +277,19 @@ single-cycle RISC-V CPU → instruction completes in one clock cycle—fetch, de
 
 ### Implementation Plan and Lab for PC
 
+
 ![Image](https://github.com/user-attachments/assets/f95b1f83-7f24-4d8d-8542-8b01a3d34d7d)
 
 ### Lab for Instruction Fetch Logic
 
+
 ![Image](https://github.com/user-attachments/assets/89fb5ec7-3ebd-4bfa-a803-3247af35d9fc)
 
 ### Lab for Instruction Immediate Decode Logic for RV-ISBUJ-
+
+Sign-extend I-type immediates.
+Assemble S/B/U/J immediates by concatenating instruction bits.
+Test each format against known encodings.
 
 ![Image](https://github.com/user-attachments/assets/35c1f167-0a07-41ff-93a6-06aaacf666bc)
 
