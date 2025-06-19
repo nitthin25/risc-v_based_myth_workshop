@@ -345,6 +345,23 @@ Test each format against known encodings.
 ![Image](https://github.com/user-attachments/assets/2c27bf8b-573b-4cb3-847e-66972fca8db8)
 
 
+## Day 5: Complete Pipelined RISC-V CPU Micro-architecture
+
+### Pipelining the CPU
+
+### Valid Signal
+
+### Invalid Cycles
+
+### Solutions to Pipeline Hazard
+
+### Branches To Correct The Branch Target Path
+
+### Load/Store Instructions and Completing the RISC-V CPU
+
+### Load Data from Memory into the Register File
+
+### Instantiate Data Memory in the CPU
 
 
 
