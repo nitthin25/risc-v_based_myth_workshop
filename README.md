@@ -571,6 +571,16 @@ Test each format against known encodings.
 ```
 
 
+![Image](https://github.com/user-attachments/assets/49404a56-ecd4-4680-abf5-199d0e07e64d)
+
+circuit-
+
+![Image](https://github.com/user-attachments/assets/dea84fb9-875b-4468-8a1e-9370c782516c)
+
+vizualization-
+
+![Image](https://github.com/user-attachments/assets/06ce01b6-d2ea-40c6-837e-ed0a6680fdba)
+
 
 
 
