@@ -240,6 +240,11 @@ In digital electronics, a flip-flop is a fundamental memory circuit that can sto
 Validity is the device meets the needs and requirements of its intended users and the intended use environment. In a chip there are maximum things that are not useful and sit idle in the chip, but the power still goes in them, which is a wastage of electricity. Validity fixes this problem by eliminating the non-useful gates.
 
 
+## Day 3 Labs-
+
+### Combinational Calculator-
+
+
 
 
 
