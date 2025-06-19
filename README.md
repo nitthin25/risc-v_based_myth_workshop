@@ -244,6 +244,12 @@ Validity is the device meets the needs and requirements of its intended users an
 
 ### Combinational Calculator-
 
+![Image](https://github.com/user-attachments/assets/05152c50-4eea-4406-af02-1f55de3d06e5)
+
+### Sequential Calculator-
+
+![Image](https://github.com/user-attachments/assets/efe538b9-a82c-4941-a4e4-e0fdc0745d8d)
+
 
 
 
