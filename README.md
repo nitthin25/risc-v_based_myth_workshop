@@ -113,6 +113,10 @@ Bytes 0–7   → First double word Bytes 8–15  → Second double word Bytes 1
 
 Flow of a sum of numbers in c program
 
+![Image](https://github.com/user-attachments/assets/3d27a755-d264-414f-a6bd-a0384bb4209d)
+
+open the gedit by creating the file name 1_to_9.c
+
 
 
 
