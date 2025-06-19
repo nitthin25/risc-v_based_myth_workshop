@@ -382,6 +382,7 @@ Test each format against known encodings.
 ![Image](https://github.com/user-attachments/assets/6e8b64b8-6fb0-4c47-a345-a34a32932c67)
 
 
+## Day 5 Labs-
 
 
 
