@@ -208,6 +208,15 @@ vim rv32im.sh
 
 Snippet of rv32im.sh -
 
+![Image](https://github.com/user-attachments/assets/9c4820a2-3247-4d6a-b47d-1b41fe6e2513)
+
+### Run Verification Script-
+
+```
+chmod +x rv32im.sh
+./rv32im.sh
+```
+
 
 
 
