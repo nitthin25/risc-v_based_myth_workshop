@@ -314,20 +314,35 @@ Test each format against known encodings.
 
 ### Starting Point Code for RISC-V Labs-
 
+![Image](https://github.com/user-attachments/assets/87810603-4e10-4e43-a97f-7a377f4292f0)
+
 ### Reset-
+
+![Image](https://github.com/user-attachments/assets/ab583665-645f-43a6-9464-057f7976f584)
 
 ### fetch-
 
+![Image](https://github.com/user-attachments/assets/1f1e96b3-dbb3-486d-b6d8-8ca790f44c8a)
+
 ### decode with branches
+
+![Image](https://github.com/user-attachments/assets/5ad72962-8c64-4b97-a403-bc75a4303614)
 
 ### Register File Read
 
+![Image](https://github.com/user-attachments/assets/f9220e34-593e-445e-8ea1-8fee77387f02)
+
 ### Register File Write
+
+![Image](https://github.com/user-attachments/assets/2e3ec250-b822-4edf-b7ed-01fa27c009d6)
 
 ### ALU Operations
 
+![Image](https://github.com/user-attachments/assets/6df34ad4-e8a0-410e-bb31-9d2a8a4c077e)
+
 ### Simple Testbench
 
+![Image](https://github.com/user-attachments/assets/2c27bf8b-573b-4cb3-847e-66972fca8db8)
 
 
 
