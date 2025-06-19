@@ -166,8 +166,26 @@ Using cat command-
 cat 1_to_9.c
 cat load.s
 ```
+To compile and assemble-
 
+```
+riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o 1to9_custom.o 1to9_custom.c load.S
+```
+to simulate spike function-
 
+```
+spike pk 1to9_custom.o
+```
+![Image](https://github.com/user-attachments/assets/ea3d7d6d-8dfe-49df-b080-0755c64503ac)
+
+![Image](https://github.com/user-attachments/assets/a30f5e7c-ddbd-4be7-868f-a8f347822453)
+
+to dissasemble-
+```
+riscv64-unknown-elf-objdump -d 1to9_custom.o | less
+```
+
+![Image](https://github.com/user-attachments/assets/53a25db5-4386-481f-9729-289ed71514f2)
 
 
 
