@@ -283,6 +283,10 @@ single-cycle RISC-V CPU → instruction completes in one clock cycle—fetch, de
 
 ![Image](https://github.com/user-attachments/assets/89fb5ec7-3ebd-4bfa-a803-3247af35d9fc)
 
+### Lab for Instruction Immediate Decode Logic for RV-ISBUJ-
+
+###  Register File Read
+
 
 
 
