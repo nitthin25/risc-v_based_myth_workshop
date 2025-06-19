@@ -117,6 +117,8 @@ Flow of a sum of numbers in c program
 
 open the gedit by creating the file name 1_to_9.c
 
+![Image](https://github.com/user-attachments/assets/568e8842-0d43-4c89-b590-127d15ded280)
+
 
 
 
