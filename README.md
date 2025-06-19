@@ -310,6 +310,8 @@ Test each format against known encodings.
 ![Image](https://github.com/user-attachments/assets/829a54bf-ac5a-4bd6-8c8f-bff1fabef45d)
 
 
+## Day-4 Labs-
+
 
 
 
