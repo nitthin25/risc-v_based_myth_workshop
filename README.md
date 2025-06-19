@@ -159,6 +159,14 @@ loop:
     ret
 
 ```
+### New C Program With Function Call=
+
+Using cat command-
+```
+cat 1_to_9.c
+cat load.s
+```
+
 
 
 
