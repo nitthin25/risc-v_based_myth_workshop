@@ -119,6 +119,49 @@ open the gedit by creating the file name 1_to_9.c
 
 ![Image](https://github.com/user-attachments/assets/568e8842-0d43-4c89-b590-127d15ded280)
 
+The C program code :
+
+``` c
+#include <stdio.h>
+
+extern int load(int a, int b);
+
+int main() {
+    int result = 0;
+    int count = 9;
+    result = load(0x0, count + 1);
+    printf("Sum of number from 1 to %d is %d\n", count, result);
+}
+```
+
+To perform load.s:
+
+```
+gedit load.s &
+```
+
+By accomplishing the above bash code we would get the assembly instructions of the C code-
+
+```
+.section .text
+.global load
+.type load, @function
+
+load:
+    add     a4, a0, zero     // Initialize sum register a4 with 0x0
+    add     a2, a0, a1       // Store count of 10 in register a2. Register a1 is loaded with 0xa (decimal 10) from main
+    add     a3, a0, zero     // Initialize intermediate sum register a3 by 0
+loop:
+    add     a4, a3, a4       // Incremental addition
+    addi    a3, a3, 1        // Increment intermediate register by 1
+    blt     a3, a2, loop     // If a3 is less than a2, branch to label named <loop>
+    add     a0, a4, zero     // Store final result to register a0 so that it can be read by main program
+    ret
+
+```
+
+
+
 
 
 
